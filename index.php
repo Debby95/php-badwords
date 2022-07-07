@@ -16,6 +16,8 @@
     }
 
     echo $badwords;
+    echo "<br>";
+    echo "Lunghezza paragrafo: " .strlen($badwords);
 ?>
 
 
